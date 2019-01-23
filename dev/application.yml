@@ -1,0 +1,3 @@
+spring:
+  service:
+    name: service
