@@ -1,3 +1,2 @@
-spring:
-  service:
-    name: service
+test: 
+  name: sit.itdev
